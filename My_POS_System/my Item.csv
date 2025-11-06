@@ -1,0 +1,39 @@
+pno,name,qty,unit_price
+ADH-0001,Dhaal Maisur,938,160.0
+AFL-0001,Wheit Flour,974,115.0
+AFL-0002,Flour-AM001,970,115.0
+APO-0001,Potato,992,120.0
+APO-0002,Sweet-Potato,980,80.0
+ARI-0001,Kakulu Rice-SL001,998,170.0
+ARI-0002,Basmati Rice-IN001,973,450.0
+ARI-0003,Red Rice,997,240.0
+ARI-0004,Long Grain Rice,991,150.0
+ARI-0005,Proboiled Rice,1000,143.0
+ASU-0001,Brown Sugar-IN001,1000,230.0
+ASU-0002,White Sugar ,989,237.0
+BBE-0001,Beets,956,68.0
+BBR-0001,Brijol,976,40.0
+BCA-0001,Red Carrot,992,105.0
+BCA-0002,Orange Carrots,954,80.0
+BCH-0001,Kashmiri Chili,986,47.0
+BCH-0002,Bell Peppers,500,15.0
+BCH-0003,Green Chili,599,35.0
+BMA-0001,Mashrooms-SL,994,50.0
+BON-0001,Bomby Onions,976,270.0
+BPA-0001,Pamkin,300,80.0
+BTO-0001,Tomatoes,985,55.0
+BTO-0002,Berry Tomatoes,990,28.0
+CAP-0001,Green Apple,981,32.0
+CAP-0002,Red Apple,976,28.0
+CAP-0003,London Pears,989,35.0
+CGR-0001,Grapes,953,8.0
+CGR-0002,Green Grapes,300,10.0
+COR-0001,Oranges,285,45.0
+COR-0003,Sweet Lemons,976,15.0
+CWM-0001,Red Watermelons,956,100.0
+CWM-0002,Yellow Watermelons,150,115.0
+DBU-0001,Butter,963,30.0
+DBU-0002,Cooking Butter,16,20.0
+DYO-0001,Chelo Yogurt,965,43.0
+DYO-0002,Parli Yogurt,975,32.0
+DYO-0005,Chees,1000,30.0
